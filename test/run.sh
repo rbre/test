@@ -6,5 +6,7 @@ echo "abc"
 
 
 
-echo "errdawdawd
+echo "errdawdawd"
+
+echo "dawdawd$TEST"
 
