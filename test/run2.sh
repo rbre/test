@@ -2,4 +2,4 @@
 
 echo "Hallo"
 
-echo "h2
+echo "h2"
