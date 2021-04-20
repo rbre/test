@@ -6,5 +6,5 @@ echo "abc"
 
 
 
-echo "errdawdawdawdawdawdawd
+echo "errdawdawd"
 

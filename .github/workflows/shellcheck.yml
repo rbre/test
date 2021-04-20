@@ -1,6 +1,6 @@
 on: [pull_request]
 
-name: 'Trigger: Push action'
+name: 'Shellcheck PR'
 
 jobs:
   shellcheck:
