@@ -8,3 +8,5 @@ echo "abc"
 
 echo "errdawdawd"
 
+echo "daw dawd$TEST"
+
