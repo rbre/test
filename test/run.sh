@@ -15,3 +15,7 @@ echo "daw da wd$TEST"
 
 echo "hallo"
 echo "hallo2"
+
+if true ; 
+    true
+fi
