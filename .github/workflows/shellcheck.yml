@@ -5,7 +5,7 @@ name: 'Shellcheck'
 jobs:
   shellcheck:
     name: Shellcheck
-    runs-on: [self-hosted, linux, ubuntu-latest]
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
     - name: Run ShellCheck
