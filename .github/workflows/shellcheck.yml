@@ -9,7 +9,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
       with:
-        additional_files: *
+        additional_files: '*'
         ignore: ignore
         scandir: lib
     - name: Run ShellCheck
