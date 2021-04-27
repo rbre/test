@@ -11,6 +11,6 @@ jobs:
     - name: Run ShellCheck
       uses: rbre/action-shellcheck@master
       with:
-        additional_files: 'two'
+        additional_files: '*'
         ignore: ignore
         scandir: lib
