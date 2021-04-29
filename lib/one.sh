@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "hal lo  "
+echo "h al lo  "
 
 if true ; then
     true
