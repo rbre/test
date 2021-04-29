@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "h a l lo  "
 
-if true ;
+if true ; then
     true
 fi
