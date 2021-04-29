@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "hallo"
+echo "hallo "
 
-if true ; then
+if true ; 
     true
 fi
